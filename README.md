@@ -29,6 +29,14 @@ Users should be able to:
 - CSS grid
 - Responsive design
 
+### Screenshot
+
+- Desktop Screenshot
+![](./Screenshot-Desktop.png)
+
+- Mobile Screenshot
+![](./Screenshot-Mobile.png)
+
 ### What I learned
 First time designing toogle switch menu
 
