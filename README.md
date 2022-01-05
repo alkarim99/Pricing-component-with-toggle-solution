@@ -11,14 +11,13 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Control the toggle with both their mouse/trackpad and their keyboard
 
-## Overview
+### Screenshot
 
-### The challenge
+- Desktop Screenshot
+![](./Screenshot-Desktop.png)
 
-Users should be able to:
-
-- View the optimal layout for the component depending on their device's screen size
-- Control the toggle with both their mouse/trackpad and their keyboard
+- Mobile Screenshot
+![](./Screenshot-Mobile.png)
 
 ## My process
 
@@ -28,14 +27,6 @@ Users should be able to:
 - CSS custom properties
 - CSS grid
 - Responsive design
-
-### Screenshot
-
-- Desktop Screenshot
-![](./Screenshot-Desktop.png)
-
-- Mobile Screenshot
-![](./Screenshot-Mobile.png)
 
 ### What I learned
 First time designing toogle switch menu
